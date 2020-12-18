@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.exe
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.dll
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\bin\Debug\netcoreapp3.1\POO_INTERFACE2.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.dll
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\POO_INTERFACE2\obj\Debug\netcoreapp3.1\POO_INTERFACE2.genruntimeconfig.cache
